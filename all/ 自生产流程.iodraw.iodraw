@@ -100,7 +100,7 @@
             <mxPoint x="390" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JVgus9WQu0QKFc-juuZm-38" value="完成后打包封存等待交货日期" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JVgus9WQu0QKFc-juuZm-38" value="完成后打包封存仓库等待交货日期" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="390" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JVgus9WQu0QKFc-juuZm-39" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -109,7 +109,7 @@
             <mxPoint x="590" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JVgus9WQu0QKFc-juuZm-40" value="销售核对订单&lt;br&gt;（财务）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JVgus9WQu0QKFc-juuZm-40" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="390" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
