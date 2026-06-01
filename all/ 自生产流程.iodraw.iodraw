@@ -34,7 +34,7 @@
             <mxPoint x="590" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JVgus9WQu0QKFc-juuZm-9" value="工程打样" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JVgus9WQu0QKFc-juuZm-9" value="销售核对订单&lt;br&gt;（财务）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="120" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
