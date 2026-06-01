@@ -64,13 +64,13 @@
             <mxPoint x="300" y="279.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JVgus9WQu0QKFc-juuZm-30" value="采购收到BOM后与仓库核对库存" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="280" width="90" height="40" as="geometry" />
+        <mxCell id="JVgus9WQu0QKFc-juuZm-30" value="物料齐全" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="260" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JVgus9WQu0QKFc-juuZm-31" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="610" y="299.5" as="sourcePoint" />
-            <mxPoint x="520" y="299.5" as="targetPoint" />
+            <mxPoint x="190" y="279.5" as="sourcePoint" />
+            <mxPoint x="100" y="279.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
