@@ -8,25 +8,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JVgus9WQu0QKFc-juuZm-1" value="客户新案子" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="120" width="90" height="40" as="geometry" />
+          <mxGeometry y="120" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JVgus9WQu0QKFc-juuZm-2" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="180" y="139.5" as="sourcePoint" />
-            <mxPoint x="270" y="140" as="targetPoint" />
+            <mxPoint x="100" y="139.5" as="sourcePoint" />
+            <mxPoint x="190" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JVgus9WQu0QKFc-juuZm-4" value="工程打样" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="120" width="90" height="40" as="geometry" />
+          <mxGeometry x="200" y="120" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JVgus9WQu0QKFc-juuZm-6" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="380" y="139.5" as="sourcePoint" />
-            <mxPoint x="470" y="140" as="targetPoint" />
+            <mxPoint x="300" y="139.5" as="sourcePoint" />
+            <mxPoint x="390" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JVgus9WQu0QKFc-juuZm-7" value="客户确认下单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="120" width="90" height="40" as="geometry" />
+          <mxGeometry x="400" y="120" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
