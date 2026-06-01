@@ -25,7 +25,7 @@
             <mxPoint x="470" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JVgus9WQu0QKFc-juuZm-7" value="工程打样" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JVgus9WQu0QKFc-juuZm-7" value="客户确认下单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="120" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
