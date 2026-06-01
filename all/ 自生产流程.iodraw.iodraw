@@ -82,7 +82,7 @@
         <mxCell id="JVgus9WQu0QKFc-juuZm-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JVgus9WQu0QKFc-juuZm-34" target="JVgus9WQu0QKFc-juuZm-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JVgus9WQu0QKFc-juuZm-34" value="确认生产日期" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JVgus9WQu0QKFc-juuZm-34" value="确认生产日期排产" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="390" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JVgus9WQu0QKFc-juuZm-35" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -91,7 +91,7 @@
             <mxPoint x="190" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JVgus9WQu0QKFc-juuZm-36" value="pai&#39;c" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JVgus9WQu0QKFc-juuZm-36" value="车间前往仓库领料生产" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="390" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JVgus9WQu0QKFc-juuZm-37" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
