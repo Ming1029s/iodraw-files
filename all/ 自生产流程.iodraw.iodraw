@@ -55,13 +55,13 @@
         <mxCell id="JVgus9WQu0QKFc-juuZm-23" value="工程提供PCBA BOM给采购" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="260" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JVgus9WQu0QKFc-juuZm-28" value="采购收到BOM后与仓库核对库存" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="270" width="90" height="40" as="geometry" />
+        <mxCell id="JVgus9WQu0QKFc-juuZm-28" value="采购员采购缺失的物料" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="260" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JVgus9WQu0QKFc-juuZm-29" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="600" y="289.5" as="sourcePoint" />
-            <mxPoint x="510" y="289.5" as="targetPoint" />
+            <mxPoint x="390" y="279.5" as="sourcePoint" />
+            <mxPoint x="300" y="279.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
