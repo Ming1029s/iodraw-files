@@ -46,6 +46,12 @@
         <mxCell id="JVgus9WQu0QKFc-juuZm-21" value="工程提供PCBA BOM给采购" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="250" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="JVgus9WQu0QKFc-juuZm-22" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="270" as="sourcePoint" />
+            <mxPoint x="440" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
